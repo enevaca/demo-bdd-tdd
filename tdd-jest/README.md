@@ -21,7 +21,7 @@ Debería ver algo como esto para saber que NPM instaló jest correctamente y que
 
 Añadir una foto del resultado
 
-Añadir el enlace al video
+>**El video de la ejecución de la prueba es: [Video TDD Jest](./images/tdd-jest.pm4)**
 
-## Licence
+## Licencia
 MIT
