@@ -10,7 +10,7 @@ Este es un ejemplo de una Calculadora básica empleando [BDD](https://en.wikiped
 ## Instalación
 
 * Clonar este repositorio con `git clone`
-* Ingresar al directorio con `cd bdd-jest`
+* Ingresar al directorio con `cd bdd-cucumber`
 * Instale todas las dependencias necesarias con `npm install`
 
 ## Uso

@@ -19,7 +19,7 @@ Este es un ejemplo de una Calculadora básica empleando [TDD]https://en.wikipedi
 
 Debería ver algo como esto para saber que NPM instaló jest correctamente y que las pruebas pueden ejecutarse.
 
-Añadir una foto del resultado
+>![image info](./images/1_test.jpg)
 
 >**El video de la ejecución de la prueba es: [Video TDD Jest](./images/tdd-jest.pm4)**
 
