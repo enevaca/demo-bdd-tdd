@@ -3,9 +3,9 @@ Este es un ejemplo de una Calculadora básica empleando [BDD](https://en.wikiped
 
 ## Prerequisitos
 
-* [Node.js](http://nodejs.org?target=_blank)
-* [NPM](http://npmjs.org?target=_blank)
-* [cucumber-js](https://github.com/cucumber/cucumber-js?target=_blank)
+* [Node.js](http://nodejs.org)
+* [NPM](http://npmjs.org)
+* [cucumber-js](https://github.com/cucumber/cucumber-js)
 
 ## Instalación
 
@@ -21,7 +21,7 @@ Debería ver algo como esto para saber que NPM instaló @cucumber/cucumber corre
 
 >![image info](./images/1_test.jpg)
 
->El **reporte publicado** de la ejecución se encuentra disponible en [https://reports.cucumber.io/reports/276a66a9-c2a3-4f5f-826b-bda62775d947](https://reports.cucumber.io/reports/276a66a9-c2a3-4f5f-826b-bda62775d947?target=_blank)
+>El **reporte publicado** de la ejecución se encuentra disponible en [https://reports.cucumber.io/reports/276a66a9-c2a3-4f5f-826b-bda62775d947](https://reports.cucumber.io/reports/276a66a9-c2a3-4f5f-826b-bda62775d947)
 
 >**El video de la ejecución de la prueba es: [Video BDD Cucumber](./images/bdd-cucumber.pm4)**
 

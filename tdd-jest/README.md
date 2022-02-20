@@ -3,9 +3,9 @@ Este es un ejemplo de una Calculadora básica empleando [TDD]https://en.wikipedi
 
 ## Prerequisitos
 
-* [Node.js](http://nodejs.org?target=_blank)
-* [NPM](http://npmjs.org?target=_blank)
-* [jest-js](https://github.com/facebook/jest?target=_blank)
+* [Node.js](http://nodejs.org)
+* [NPM](http://npmjs.org)
+* [jest-js](https://github.com/facebook/jest)
 
 ## Instalación
 
