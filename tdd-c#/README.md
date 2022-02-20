@@ -16,10 +16,12 @@ Este es un ejemplo de una Calculadora básica empleando [TDD](https://en.wikiped
 ## Uso
 
 * Una vez la solución se encuentre abierta, sobre el proyecto "Tests" click derecho, y posteriormente click en "Run Tests" como se muestra en la siguiente imagen.
-![RunTests](https://github.com/lisy2343/demo-bdd-tdd/tree/main/tdd-c%23/readme-assets/RunTests.png)
+
+![RunTests](https://github.com/lisy2343/demo-bdd-tdd/blob/main/tdd-c%23/readme-assets/RunTests.png)
 
 * Posteriormente se observan que las pruebas se ejecutan.
-![PassedTests](https://github.com/lisy2343/demo-bdd-tdd/tree/main/tdd-c%23/readme-assets/PassedTests.png)
+
+![PassedTests](https://github.com/enevaca/demo-bdd-tdd/blob/main/tdd-c%23/readme-assets/PassedTests.png)
 
 ## Licence
 MIT
