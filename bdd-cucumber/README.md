@@ -19,11 +19,11 @@ Este es un ejemplo de una Calculadora básica empleando [BDD](https://en.wikiped
 
 Debería ver algo como esto para saber que NPM instaló @cucumber/cucumber correctamente y que las pruebas pueden ejecutarse.
 
->![image info](./images/1_test.jpg)
+>![image info](./readme-assets/1_test.jpg)
 
 >El **reporte publicado** de la ejecución se encuentra disponible en [https://reports.cucumber.io/reports/276a66a9-c2a3-4f5f-826b-bda62775d947](https://reports.cucumber.io/reports/276a66a9-c2a3-4f5f-826b-bda62775d947)
 
->**El video de la ejecución de la prueba es: [Video BDD Cucumber](./images/bdd-cucumber.pm4)**
+>**El video de la ejecución de la prueba es: [Video BDD Cucumber](./readme-assets/bdd-cucumber.pm4)**
 
 ## Licencia
 MIT
