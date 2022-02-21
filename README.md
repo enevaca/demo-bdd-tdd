@@ -10,7 +10,7 @@ Trabajo Final del Grupo N° 5, Módulo Pruebas de Software: MDEIS - UAGRM.
 
 >**[Video TDD Jest](./tdd-jest/readme-assets/tdd-jest.pm4)**
 
->**[Video TDD Jest](./tdd-c#/readme-assets/tdd-c#.pm4)**
+>**[Video TDD C#](./tdd-c#/readme-assets/tdd-c#.pm4)**
 
 ## Integrantes Grupo 5
 
