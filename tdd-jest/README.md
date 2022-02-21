@@ -21,7 +21,7 @@ Debería ver algo como esto para saber que NPM instaló jest correctamente y que
 
 >![image info](./readme-assets/1_test.jpg)
 
->**El video de la ejecución de la prueba es: [Video TDD Jest](./readme-assets/tdd-jest.pm4)**
+>**El video de la ejecución de la prueba es: [Video TDD Jest](./readme-assets/tdd-jest.mp4)**
 
 ## Licencia
 MIT

@@ -27,7 +27,7 @@ El **reporte publicado** de la ejecución se encuentra disponible en [https://re
 
 ## Video Ejecución
 
->**El video de la ejecución de la prueba es: [Video BDD Cucumber](./readme-assets/bdd-cucumber.pm4)**
+>**El video de la ejecución de la prueba es: [Video BDD Cucumber](./readme-assets/bdd-cucumber.mp4)**
 
 ## Licencia
 MIT
