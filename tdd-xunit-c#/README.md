@@ -21,7 +21,7 @@ Este es un ejemplo de una Calculadora básica empleando [TDD](https://en.wikiped
 
 * Posteriormente se observan que las pruebas se ejecutan.
 
-![PassedTests](https://github.com/enevaca/demo-bdd-tdd/blob/main/tdd-c%23/readme-assets/PassedTests.png)
+![PassedTests](https://github.com/enevaca/demo-bdd-tdd/blob/main/tdd-xunit-c%23/readme-assets/PassedTests.png)
 
 ## Licence
 MIT
