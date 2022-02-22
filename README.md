@@ -8,7 +8,7 @@ Trabajo Final del Grupo N° 5, Módulo Pruebas de Software: MDEIS - UAGRM.
 ## Pruebas de la Ejecución (Videos)
 >**[Video BDD Cucumber](./bdd-cucumber/readme-assets/bdd-cucumber.mp4)**
 
->**[Video TDD Jest](./tdd-jest/readme-assets/tdd-jest.mp4)]**
+>**[Video TDD Jest](./tdd-jest/readme-assets/tdd-jest.mp4)**
 
 ## Integrantes Grupo 5
 
