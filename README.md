@@ -6,27 +6,9 @@ Trabajo Final del Grupo N° 5, Módulo Pruebas de Software: MDEIS - UAGRM.
 * [tdd-xunit-c#](https://github.com/enevaca/demo-bdd-tdd/tree/main/tdd-xunit-c%23): Es un ejemplo de una Calculadora básica empleando [TDD](https://en.wikipedia.org/wiki/Test-driven_development) con [XUnit](https://xunit.net/#documentation).
 
 ## Pruebas de la Ejecución (Videos)
->**[Video BDD Cucumber](./bdd-cucumber/readme-assets/bdd-cucumber.mp4)**
-<iframe
-    width="340"
-    height="180"
-    src="./bdd-cucumber/readme-assets/bdd-cucumber.mp4"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+>**[![Video BDD Cucumber](./bdd-cucumber/readme-assets/bdd-cucumber.mp4)**
 
->**[Video TDD Jest](./tdd-jest/readme-assets/tdd-jest.mp4)**
-<iframe
-    width="340"
-    height="180"
-    src="./tdd-jest/readme-assets/tdd-jest.mp4"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+>**[![Video TDD Jest](./tdd-jest/readme-assets/tdd-jest.mp4)]**
 
 ## Integrantes Grupo 5
 
